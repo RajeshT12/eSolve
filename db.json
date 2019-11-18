@@ -1,1 +1,90 @@
-
+{
+  "USERS": [
+    {
+      "id": 1,
+      "Name": "Ada",
+      "Surename": "Elvis",
+      "Email": "rajesht@esolveindia.com",
+      "SignonName": "SalesS",
+      "avatar": "//www.gravatar.com/avatar/37ec37eff3ede5b8ab1343f3442e4835?s=200&r=pg&d=mm",
+      "Password": "$2a$10$A4lNWfRfO30JgvYqzf9gw.aYzQw11ozuDFsJTShLiLSyQIQj97GkC",
+      "User Profile": "Admin",
+      "Remarks": "",
+      "Status": "Active",
+      "Date time": "3.11.2019:14:09",
+      "Employeeid": "es123",
+      "Address": "asdsa",
+      "City_Town": "chennai",
+      "MobileNo": "9788656584",
+      "SsNo": "sdfsdf21",
+      "Iban": "asdasd23"
+    },
+    {
+      "Email": "prabha123456@esolveindia.com",
+      "Name": "prabha",
+      "SureName": "s",
+      "SignOnName": "prabhaesolve",
+      "Password": "$2a$10$A4lNWfRfO30JgvYqzf9gw.aYzQw11ozuDFsJTShLiLSyQIQj97GkC",
+      "UserProfile": "simple",
+      "Remarks": "goodboy",
+      "Status": "Active",
+      "Employeeid": "es123",
+      "Address": "asdsa",
+      "City_Town": "chennai",
+      "MobileNo": "9788656584",
+      "SsNo": "sdfsdf21",
+      "Iban": "asdasd23",
+      "id": 2
+    }
+  ],
+  "Register": [
+    {
+      "id": 1,
+      "Name": "Kaniyen",
+      "Sure Name": "Poongunran",
+      "Address Line": "Kasimedu salai",
+      "Address No": "23/46",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "N",
+      "Sex": "M",
+      "Mobile no": "123456789",
+      "E-mail": "Kaniyen.p@gmail.com",
+      "Passport/id no": "MA123456",
+      "DOB": "12.08.1980",
+      "Date time": "3.11.2019:13:09"
+    },
+    {
+      "id": 2,
+      "Name": "Sivan",
+      "Sure Name": "MaanikkaVaasagar",
+      "Address Line": "Ashok Nagar Salai ",
+      "Address No": "22/43",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "Y",
+      "Sex": "M",
+      "Mobile no": "987654321",
+      "E-mail": "maanikaa.s@gmail.com",
+      "Passport/id no": "MA187654",
+      "DOB": "10.09.1780",
+      "Date time": "3.11.2019:13:10"
+    },
+    {
+      "id": 3,
+      "Name": "Ramana",
+      "Sure Name": "Muruganar",
+      "Address Line": "kodambakkam Salai ",
+      "Address No": "21/42",
+      "City/Town": "Chennai",
+      "Country": "India",
+      "VIP": "Y",
+      "Sex": "M",
+      "Mobile no": "987875687",
+      "E-mail": "ramana.m@gmail.com",
+      "Passport/id no": "MA1546789",
+      "DOB": "30.12.1879",
+      "Date time": "3.11.2019:13:15"
+    }
+  ]
+}
